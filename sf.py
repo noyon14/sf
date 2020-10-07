@@ -438,3 +438,18 @@ def pilih_super():
 
 if __name__ == '__main__':
 	login()
+🔗Installationn:
+$ apt update 
+$ apt upgrade
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ pip2 install requestes
+$ pip2 install mechanize
+$ git clone https://github.com/noyon14/noyon14.git
+$ cd noyon14
+$ python2 noyon14.py
+
+Username : noyon
+
+pass : silentforce
